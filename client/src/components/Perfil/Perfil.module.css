@@ -1,0 +1,12 @@
+.perfil_container {
+  margin-top: 5em;
+}
+
+.box_perfil {
+    background-color: rgb(255, 255, 255);
+    padding: 2em;
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+}
